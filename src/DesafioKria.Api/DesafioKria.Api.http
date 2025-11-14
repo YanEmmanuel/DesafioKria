@@ -1,0 +1,6 @@
+@DesafioKria.Api_HostAddress = http://localhost:5182
+
+GET {{DesafioKria.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

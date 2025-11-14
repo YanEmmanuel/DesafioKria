@@ -1,0 +1,16 @@
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/bin/Debug/net9.0/DesafioKria.Application.deps.json
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/bin/Debug/net9.0/DesafioKria.Application.dll
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/bin/Debug/net9.0/DesafioKria.Application.pdb
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/bin/Debug/net9.0/DesafioKria.Domain.dll
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/bin/Debug/net9.0/DesafioKria.Domain.pdb
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/obj/Debug/net9.0/DesafioKria.Application.csproj.AssemblyReference.cache
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/obj/Debug/net9.0/DesafioKria.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/obj/Debug/net9.0/DesafioKria.Application.AssemblyInfoInputs.cache
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/obj/Debug/net9.0/DesafioKria.Application.AssemblyInfo.cs
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/obj/Debug/net9.0/DesafioKria.Application.csproj.CoreCompileInputs.cache
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/obj/Debug/net9.0/DesafioK.F3B5179E.Up2Date
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/obj/Debug/net9.0/DesafioKria.Application.dll
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/obj/Debug/net9.0/refint/DesafioKria.Application.dll
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/obj/Debug/net9.0/DesafioKria.Application.pdb
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/obj/Debug/net9.0/ref/DesafioKria.Application.dll
+/home/yan/Dev/Projects/Http/DesafioKria/src/DesafioKria.Application/obj/Debug/net9.0/DesafioKria.Application.sourcelink.json
