@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioKria.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e999971897b7a50d60f51cb365c7212fa823d22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5f130a24bdf68c9029bf4bb5677c9f61ca699c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioKria.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioKria.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
