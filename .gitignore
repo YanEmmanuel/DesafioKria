@@ -1,0 +1,46 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache and temp files
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.opendb
+*.VC.db
+
+# VS Code
+.vscode/
+.history/
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# DotCover
+*.dotCover
+
+# Others
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+.nuget/
+_ReSharper*/
+[Tt]humbs.db
+[Dd]esktop.ini
+*.orig
+*.swp
+*.sln.docstates
